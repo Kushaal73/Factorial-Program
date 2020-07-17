@@ -4,7 +4,7 @@ Done in JAVASCRIPT.This program takes in the user input,which is the number they
 
 let number = prompt("number?"); //this will be the last number of the loop
 function factorial(num) {
-  let start = 1; //this is tge number from which the loops starts
+  let start = 1; //this is the number from which the loops starts
   let total = 1; //this number will change
 
   while (start < num) {
